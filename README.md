@@ -1,6 +1,3 @@
-# AI-YOLO-Kalman-Tracker-detection
-Sistema C-UAS para vigilancia, detección y seguimiento visual de UAV/drones, aeronaves y objetivos marítimos mediante IA, YOLO, tracking con Kalman y análisis de enjambre.
-
 # C-UAS Tactical Detection Suite
 
 Sistema de vigilancia, detección y seguimiento visual de objetivos aéreos y marítimos. El proyecto se compone de:
